@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Unit Converter Testing</string>
+    <string-array name="units_array">
+        <item>Temperature</item>
+        <item>Length</item>
+        <item>Weight</item>
+    </string-array>
+</resources>
